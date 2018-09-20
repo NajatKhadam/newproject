@@ -38,6 +38,11 @@ body {
   width: 100px;
 }
 
+.add{
+  width: 70px;
+  border-radius: 50%;
+}
+
 .asset-list {
   background-color: rgb(99, 99, 104);
   display: flex;
